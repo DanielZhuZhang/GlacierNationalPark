@@ -1,0 +1,362 @@
+ID,Unique_Locations,Total_Duration_POI,Trip_Start_Time,Trip_End_Time,Total_Trip_Duration
+'01031,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",10874.0,2023-07-02 11:50:55,2023-07-02 16:35:41,284.76666666666665
+'01061,"('Avalanche_parking', 'Baring_falls_trail', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Shuttle_Loop', 'Shuttle_Sunrift_gorge', 'Sun_point_parking')",13133.0,2023-07-02 11:21:43,2023-07-02 18:30:55,429.2
+'01241,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass', 'Shuttle_Loop', 'Trail_of_Cedars')",11566.0,2023-07-02 12:05:23,2023-07-02 17:11:19,305.93333333333334
+'01341,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Shuttle_Loop')",14114.0,2023-07-02 12:05:19,2023-07-02 23:34:09,688.8333333333334
+'01371,"('Apgar_VC_parking', 'Apgar_village', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",61049.0,2023-07-02 12:05:35,2023-07-03 05:44:55,1059.3333333333333
+'01401,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",28811.0,2023-07-02 13:29:18,2023-07-03 05:49:52,980.5666666666667
+'01501,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Shuttle_Loop')",32577.0,2023-07-02 12:46:00,2023-07-03 05:33:02,1007.0333333333333
+'01511,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",26379.0,2023-07-02 12:05:23,2023-07-03 04:17:02,971.65
+'02011,"('Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Red_rock', 'Shuttle_Lake_macdonald')",3447.0,2023-07-05 09:25:39,2023-07-05 12:45:07,199.46666666666667
+'02021,"('Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Loop')",33617.0,2023-07-05 09:12:16,2023-07-05 19:06:36,594.3333333333334
+'02031,"('Gunsight_pass_trailhead', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Lunch_creek_parking', 'Many_glacier_trail', 'Moose_country', 'Rising_sun', 'Sun_point_parking')",18348.0,2023-07-05 07:54:28,2023-07-05 18:17:24,622.9333333333333
+'02061,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village', 'Avalanche_trail', 'Trail_of_Cedars')",26942.0,2023-07-05 09:14:40,2023-07-05 19:02:40,588.0
+'02081,"('Apgar_VC_parking', 'Big_bend', 'Logan_pass_parking', 'Red_rock', 'St_mary_VC_parking', 'Sun_point_parking')",12705.0,2023-07-05 07:17:12,2023-07-05 14:27:57,430.75
+'02091,"('Apgar_VC_parking', 'Apgar_village', 'Big_bend', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Moose_country', 'Rising_sun', 'Sun_point_parking')",12345.0,2023-07-05 07:44:47,2023-07-05 15:38:02,473.25
+'02101,"('Apgar_VC_parking', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'St_mary_VC_parking')",5940.0,2023-07-05 08:07:35,2023-07-05 23:22:02,914.45
+'02111,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Moose_country', 'Rising_sun', 'Sun_point_nature_trail', 'Sun_point_parking')",13710.0,2023-07-05 07:21:58,2023-07-05 15:32:43,490.75
+'02141,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Red_rock')",10905.0,2023-07-05 09:51:50,2023-07-05 13:51:20,239.5
+'02161,"('Jackson_glac_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Moose_country', 'Sun_point_parking')",6281.0,2023-07-05 09:30:11,2023-07-05 12:16:17,166.1
+'02171,"('Avalanche_parking', 'Avalanche_trail', 'Trail_of_Cedars')",22439.0,2023-07-05 08:22:44,2023-07-05 15:19:14,416.5
+'02181,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Many_glacier_trail', 'Sun_point_parking', 'Wild_goose_island')",33018.0,2023-07-05 07:32:05,2023-07-06 00:32:08,1020.05
+'02191,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'StMary_falls_trail', 'Viriginia_falls_trail')",18660.0,2023-07-05 09:10:58,2023-07-05 16:21:43,430.75
+'02201,"('Avalanche_parking', 'Avalanche_trail', 'Big_bend', 'Jackson_glac_overlook', 'Logan_pass_parking', 'Lunch_creek', 'Shuttle_Avalanche', 'Sun_point_parking', 'Trail_of_Cedars', 'Wild_goose_island')",19995.0,2023-07-05 08:13:14,2023-07-05 16:53:14,520.0
+'02211,"('Apgar_campground', 'Apgar_village', 'Avalanche_parking', 'Avalanche_trail', 'Shuttle_Avalanche', 'Trail_of_Cedars')",20580.0,2023-07-05 07:56:45,2023-07-05 14:09:45,373.0
+'02221,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Avalanche_trail', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Trail_of_Cedars')",33097.0,2023-07-05 07:58:54,2023-07-05 23:56:20,957.4333333333333
+'02231,"('Apgar_village', 'Avalanche_parking', 'Shuttle_Avalanche', 'Trail_of_Cedars')",6375.0,2023-07-05 07:45:43,2023-07-05 16:49:43,544.0
+'02241,"('Baring_falls_trail', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Many_glacier_trail', 'Rising_sun', 'Rising_sun_boat_dock')",23220.0,2023-07-05 09:55:39,2023-07-05 20:20:24,624.75
+'02251,"('Apgar_VC_parking', 'Apgar_village')",15405.0,2023-07-05 09:04:44,2023-07-05 13:23:14,258.5
+'02271,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Loop')",30612.0,2023-07-05 07:14:43,2023-07-05 17:29:51,615.1333333333333
+'02281,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_trail', 'Big_bend', 'Trail_of_Cedars')",18420.0,2023-07-05 07:53:02,2023-07-05 15:25:17,452.25
+'02291,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Loop')",32147.0,2023-07-05 07:13:58,2023-07-05 23:01:26,947.4666666666667
+'02301,"('Apgar_village', 'Big_bend', 'Logan_pass_parking', 'Loop_parking', 'Shuttle_Sun_point', 'Sun_point_parking')",20400.0,2023-07-05 09:08:10,2023-07-05 15:42:10,394.0
+'02321,"('Baring_falls_parking', 'Rising_sun_boat_dock', 'Rising_sun_picnic_area', 'StMary_falls_trail', 'St_mary_VC', 'St_mary_falls_parking', 'Sun_point_parking', 'Viriginia_falls_trail')",6323.0,2023-07-05 09:45:33,2023-07-05 14:54:27,308.9
+'02331,"('Apgar_village', 'Baring_falls_parking', 'Logan_pass_parking', 'Loop_parking', 'Lunch_creek_parking', 'Oberlin_bend', 'Rising_sun', 'St_mary_VC_parking', 'Sun_point_parking')",20115.0,2023-07-05 08:03:37,2023-07-05 22:32:29,868.8666666666667
+'02341,"('Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Loop_parking', 'Shuttle_Loop')",33105.0,2023-07-05 09:04:46,2023-07-05 18:50:16,585.5
+'02351,"('Baring_falls_parking', 'Baring_falls_trail', 'Gunsight_pass_trailhead', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'St_mary_VC', 'St_mary_VC_parking', 'Wild_goose_island')",7715.0,2023-07-05 08:42:14,2023-07-05 13:26:16,284.03333333333336
+'02361,"('Apgar_VC_parking',)",18930.0,2023-07-05 08:25:45,2023-07-05 14:10:30,344.75
+'02411,"('Apgar_VC', 'Apgar_VC_parking')",26664.0,2023-07-05 07:33:07,2023-07-05 17:59:05,625.9666666666667
+'02421,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",19770.0,2023-07-05 08:52:49,2023-07-05 15:30:34,397.75
+'02431,"('Apgar_village', 'Big_bend', 'Lake_macdonald_lodge', 'Logan_pass_parking')",9688.0,2023-07-05 08:54:44,2023-07-05 16:59:34,484.8333333333333
+'02441,"('Big_bend', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Moose_country', 'Trail_of_Cedars')",22350.0,2023-07-05 09:05:54,2023-07-05 17:05:24,479.5
+'02451,"('Logan_pass_parking', 'Lunch_creek_parking', 'Rising_sun_picnic_area', 'St_mary_VC_parking', 'Sun_point_parking')",7126.0,2023-07-05 09:05:23,2023-07-05 12:04:53,179.5
+'02461,"('Avalanche_parking', 'Logan_pass_parking')",15120.0,2023-07-05 08:19:37,2023-07-05 15:27:22,427.75
+'02471,"('Baring_falls_trail', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Moose_country', 'Red_rock', 'Shuttle_Sun_point', 'StMary_falls_trail', 'St_mary_falls_parking', 'Sun_point_parking')",12151.0,2023-07-05 08:33:35,2023-07-05 16:07:05,453.5
+'02481,"('Lake_macdonald_lodge', 'Logan_pass_parking', 'Loop_parking', 'Oberlin_bend')",2731.0,2023-07-05 08:51:24,2023-07-05 10:47:41,116.28333333333333
+'02501,"('Big_bend', 'Siyeh_bend_trail')",23670.0,2023-07-05 08:44:16,2023-07-05 16:34:31,470.25
+'02511,"('Apgar_VC_parking', 'Apgar_campground', 'Apgar_village')",20265.0,2023-07-05 07:40:56,2023-07-05 14:04:11,383.25
+'02521,"('Apgar_VC_parking', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",32835.0,2023-07-05 08:28:16,2023-07-05 20:34:41,726.4166666666666
+'02531,"('Apgar_campground', 'Avalanche_parking', 'Shuttle_Avalanche', 'Trail_of_Cedars')",7980.0,2023-07-05 08:15:22,2023-07-06 01:09:49,1014.45
+'02541,"('Apgar_village', 'Avalanche_parking', 'Avalanche_trail', 'Trail_of_Cedars')",19922.0,2023-07-05 08:11:34,2023-07-05 16:17:36,486.03333333333336
+'02551,"('Avalanche_parking', 'Baring_falls_trail', 'Logan_pass_parking', 'Rising_sun', 'Rising_sun_boat_dock', 'Shuttle_Avalanche', 'St_mary_VC_parking', 'Sun_point_parking', 'Trail_of_Cedars')",48269.0,2023-07-05 09:27:54,2023-07-06 02:10:09,1002.25
+'03031,"('Jackson_glac_overlook', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'Shuttle_Rising_Sun', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'St_mary_VC_parking', 'Viriginia_falls_trail')",16755.0,2023-07-06 11:43:11,2023-07-06 19:01:56,438.75
+'03041,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village')",11475.0,2023-07-05 07:56:04,2023-07-05 14:06:34,370.5
+'03101,"('Hidden_lake_overlook', 'Logan_pass_VC')",4665.0,2023-07-06 12:42:17,2023-07-06 14:03:02,80.75
+'03131,"('Siyeh_bend_trail',)",4305.0,2023-07-05 10:43:34,2023-07-05 11:55:19,71.75
+'03161,"('Rising_sun_boat_dock', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'St_mary_VC_parking', 'Sun_point_parking', 'Viriginia_falls_trail')",12276.0,2023-07-06 10:38:00,2023-07-06 15:05:36,267.6
+'03191,"('Many_glacier_trail', 'St_mary_VC', 'St_mary_VC_parking')",23170.0,2023-07-06 12:07:51,2023-07-06 19:21:16,433.4166666666667
+'03201,"('Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Logan_pass', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'Sun_point_parking', 'Viriginia_falls_trail')",13210.0,2023-07-06 12:49:39,2023-07-06 17:54:19,304.6666666666667
+'03311,"('Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Lunch_creek_parking', 'Many_glacier_trail')",48973.0,2023-07-05 08:08:36,2023-07-06 01:08:34,1019.9666666666667
+'03411,"('Rising_sun_boat_dock', 'Shuttle_Rising_Sun', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'Sun_point_parking', 'Viriginia_falls_trail')",5444.0,2023-07-06 12:58:01,2023-07-06 15:17:16,139.25
+'03471,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'Sun_point_parking', 'Viriginia_falls_trail')",14781.0,2023-07-06 13:12:22,2023-07-06 18:21:28,309.1
+'0355,"('Apgar_VC_parking', 'Hidden_lake_overlook', 'Logan_pass_parking', 'Loop_parking', 'Red_rock')",3533.0,2023-07-12 17:44:46,2023-07-12 20:35:09,170.38333333333333
+'03551,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'Sun_point_parking')",11910.0,2023-07-06 11:28:16,2023-07-06 16:41:46,313.5
+'04051,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Shuttle_Loop')",8025.0,2023-07-07 15:39:45,2023-07-07 19:33:15,233.5
+'04301,"('Apgar_village', 'Big_bend', 'Logan_pass_parking', 'Loop_parking', 'Shuttle_Sun_point', 'Sun_point_parking')",20400.0,2023-07-05 09:08:10,2023-07-05 15:42:10,394.0
+'05011,"('Apgar_VC_parking', 'Big_bend', 'Sun_point_parking')",1620.0,2023-07-10 09:07:28,2023-07-10 12:07:02,179.56666666666666
+'05041,"('Avalanche_parking', 'Avalanche_trail', 'Trail_of_Cedars')",9150.0,2023-07-10 07:57:06,2023-07-10 10:49:21,172.25
+'05071,"('Big_bend', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Moose_country')",18375.0,2023-07-10 11:01:59,2023-07-10 18:40:29,458.5
+'05081,"('Apgar_VC', 'Logan_pass_parking', 'Many_glacier_trail', 'Red_rock')",12255.0,2023-07-10 10:24:08,2023-07-10 18:54:19,510.18333333333334
+'05091,"('Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Loop_parking', 'Trail_of_Cedars')",2864.0,2023-07-10 09:05:40,2023-07-10 12:45:40,220.0
+'05121,"('Apgar_VC_parking', 'Big_bend', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Moose_country', 'Red_rock')",14483.0,2023-07-10 08:38:05,2023-07-10 16:44:58,486.8833333333333
+'05131,"('Apgar_VC_parking', 'Avalanche_parking', 'Baring_falls_parking', 'Baring_falls_trail', 'Loop_parking', 'StMary_falls_trail', 'St_mary_VC_parking', 'St_mary_falls_parking', 'Sun_point_parking', 'Viriginia_falls_trail')",9975.0,2023-07-10 07:58:20,2023-07-10 17:05:50,547.5
+'05141,"('Apgar_village', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Loop_parking', 'Moose_country', 'Shuttle_Avalanche', 'Trail_of_Cedars')",10881.0,2023-07-10 09:48:07,2023-07-10 17:06:28,438.35
+'05171,"('Apgar_VC_parking', 'Apgar_campground', 'Apgar_village', 'Big_bend', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Moose_country')",12570.0,2023-07-10 09:12:38,2023-07-10 16:03:23,410.75
+'05211,"('Apgar_campground', 'Apgar_village', 'Avalanche_parking', 'Avalanche_trail', 'Shuttle_Avalanche', 'Trail_of_Cedars')",20580.0,2023-07-05 07:56:45,2023-07-05 14:09:45,373.0
+'05221,"('Apgar_village', 'Big_bend', 'Logan_pass_VC', 'Logan_pass_parking')",5178.0,2023-07-11 11:49:01,2023-07-11 15:12:46,203.75
+'05231,"('Apgar_VC_parking', 'Logan_pass_parking', 'Loop_parking', 'Many_glacier_trail', 'Moose_country', 'Oberlin_bend')",16500.0,2023-07-10 08:22:37,2023-07-10 15:50:07,447.5
+'05251,"('Gunsight_pass_trailhead', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Oberlin_bend', 'St_mary_falls_parking', 'Viriginia_falls_trail')",12930.0,2023-07-10 09:31:32,2023-07-10 14:31:17,299.75
+'05261,"('Logan_pass_parking', 'Lunch_creek', 'Rising_sun_boat_dock', 'Siyeh_bend_parking', 'Siyeh_bend_trail')",13261.0,2023-07-10 09:36:29,2023-07-10 15:23:59,347.5
+'05291,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Loop_highline_grinnell_glac', 'Loop_parking', 'Shuttle_Lake_macdonald')",30690.0,2023-07-10 08:18:48,2023-07-10 17:03:48,525.0
+'05311,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Trail_of_Cedars')",46690.0,2023-07-10 07:53:46,2023-07-11 01:25:11,1051.4166666666667
+'05331,"('St_mary_VC_parking',)",600.0,2023-07-06 09:38:30,2023-07-06 09:48:30,10.0
+'05341,"('Avalanche_parking', 'Baring_falls_to_sun_point', 'Baring_falls_trail', 'Logan_pass_parking', 'Shuttle_Sun_point', 'St_mary_VC', 'St_mary_VC_parking', 'Sun_point_parking', 'Trail_of_Cedars')",6389.0,2023-07-10 11:35:03,2023-07-10 15:48:47,253.73333333333332
+'05351,"('St_mary_VC_parking',)",420.0,2023-07-06 09:35:43,2023-07-06 09:42:43,7.0
+'05361,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_parking', 'Many_glacier_trail')",10335.0,2023-07-10 07:53:31,2023-07-10 12:56:16,302.75
+'05401,"('Apgar_village', 'Avalanche_parking', 'Big_bend', 'Many_glacier_trail', 'Moose_country', 'Shuttle_Avalanche', 'Trail_of_Cedars')",16288.0,2023-07-10 08:38:10,2023-07-10 21:04:38,746.4666666666667
+'05441,"('Apgar_village', 'Gunsight_pass_trailhead', 'Many_glacier_trail')",6960.0,2023-07-10 09:34:19,2023-07-10 14:06:35,272.26666666666665
+'05451,"('Logan_pass_parking', 'Lunch_creek_parking', 'Rising_sun_picnic_area', 'St_mary_VC_parking', 'Sun_point_parking')",7126.0,2023-07-05 09:05:23,2023-07-05 12:04:53,179.5
+'05461,"('Hidden_lake_overlook', 'Jackson_glac_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Red_rock', 'Shuttle_Logan_pass')",8156.0,2023-07-10 09:22:51,2023-07-10 13:40:02,257.18333333333334
+'05511,"('Hidden_lake_overlook', 'Jackson_glac_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'StMary_falls_trail', 'St_mary_falls_parking', 'Viriginia_falls_trail')",18809.0,2023-07-10 10:47:08,2023-07-10 17:00:08,373.0
+'05541,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village', 'Hidden_lake_overlook', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Lunch_creek', 'Lunch_creek_parking', 'Shuttle_Jackson_glac_overlook', 'Shuttle_Logan_pass', 'St_mary_VC_parking', 'Wild_goose_island')",14497.0,2023-07-10 08:19:54,2023-07-10 17:11:36,531.7
+'06021,"('Apgar_VC_parking', 'Lake_macdonald_lodge', 'St_mary_VC_parking')",2685.0,2023-07-11 11:13:46,2023-07-11 13:58:16,164.5
+'06041,"('Logan_pass_parking', 'Loop_parking', 'Trail_of_Cedars')",10740.0,2023-07-11 11:39:04,2023-07-11 16:29:04,290.0
+'06061,"('Logan_pass_parking', 'St_mary_VC_parking', 'Sun_point_parking', 'Trail_of_Cedars', 'Wild_goose_island')",1416.0,2023-07-11 10:48:26,2023-07-11 12:43:29,115.05
+'06111,"('Avalanche_parking', 'Big_bend', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Moose_country', 'Red_rock')",1905.0,2023-07-11 11:56:32,2023-07-11 13:56:32,120.0
+'06131,"('Apgar_campground', 'Logan_pass_parking', 'Loop_parking', 'Wild_goose_island')",1980.0,2023-07-11 11:32:45,2023-07-11 13:46:45,134.0
+'06151,"('Lake_macdonald_lodge',)",345.0,2023-07-11 11:48:49,2023-07-11 11:54:34,5.75
+'06171,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",14365.0,2023-07-11 10:13:10,2023-07-11 16:40:49,387.65
+'06181,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Baring_falls_trail', 'Loop_parking', 'Red_rock')",4926.0,2023-07-11 11:11:22,2023-07-11 15:46:33,275.18333333333334
+'06261,"('Gunsight_pass_trailhead', 'Jackson_glac_overlook', 'Logan_pass_parking')",8416.0,2023-07-11 14:39:48,2023-07-11 17:10:03,150.25
+'06271,"('Avalanche_parking', 'Avalanche_trail', 'Trail_of_Cedars')",10574.0,2023-07-11 10:56:41,2023-07-11 14:22:40,205.98333333333332
+'06291,"('Avalanche_parking', 'Avalanche_trail', 'Shuttle_Avalanche', 'Trail_of_Cedars')",12121.0,2023-07-11 11:48:51,2023-07-11 15:15:21,206.5
+'06301,"('Avalanche_parking', 'Avalanche_trail', 'Big_bend', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Oberlin_bend', 'Sun_point_parking', 'Trail_of_Cedars')",30924.0,2023-07-10 07:44:32,2023-07-10 18:56:10,671.6333333333333
+'06351,"('St_mary_VC_parking', 'Wild_goose_island')",2625.0,2023-07-11 12:47:29,2023-07-11 13:42:59,55.5
+'06381,"('Big_bend', 'Lake_macdonald_lodge', 'Moose_country', 'Rising_sun')",5805.0,2023-07-11 11:38:51,2023-07-11 15:01:59,203.13333333333333
+'06421,"('Avalanche_parking', 'Loop_highline_grinnell_glac', 'Loop_parking', 'Moose_country')",25349.0,2023-07-11 11:54:02,2023-07-11 19:35:00,460.96666666666664
+'06441,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Loop_parking', 'Rising_sun')",20250.0,2023-07-11 11:42:59,2023-07-11 20:27:29,524.5
+'06451,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Moose_country', 'Red_rock')",6525.0,2023-07-11 10:49:27,2023-07-11 13:59:57,190.5
+'06461,"('Apgar_VC_parking', 'Apgar_village')",2175.0,2023-07-11 10:18:18,2023-07-11 10:56:48,38.5
+'06481,"('Avalanche_parking',)",15601.0,2023-07-11 11:57:19,2023-07-11 16:38:34,281.25
+'06511,"('Apgar_VC_parking', 'Avalanche_parking', 'Logan_pass_parking')",2760.0,2023-07-12 17:48:29,2023-07-12 21:08:14,199.75
+'06521,"('Apgar_VC', 'Apgar_VC_parking', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Red_rock', 'Shuttle_Lake_macdonald')",15976.0,2023-07-11 10:27:22,2023-07-11 18:00:32,453.1666666666667
+'06531,"('Apgar_VC_parking', 'Lake_macdonald_lodge')",19485.0,2023-07-11 11:32:32,2023-07-11 17:24:32,352.0
+'06541,"('Apgar_VC', 'Apgar_VC_parking', 'Lake_macdonald_lodge', 'Snyder_ridge_trail')",18095.0,2023-07-11 10:36:27,2023-07-11 18:25:02,468.5833333333333
+'07041,"('Logan_pass_parking',)",1245.0,2023-07-12 18:13:22,2023-07-12 18:34:07,20.75
+'07091,"('St_mary_falls_parking',)",390.0,2023-07-12 16:10:37,2023-07-12 16:17:07,6.5
+'07101,"('Logan_pass_parking', 'Oberlin_climbing')",7185.0,2023-07-12 16:08:25,2023-07-12 18:14:25,126.0
+'07121,"('Apgar_VC',)",18939.0,2023-07-12 20:54:56,2023-07-13 04:31:03,456.1166666666667
+'07131,"('Apgar_VC', 'Rising_sun')",3151.0,2023-07-12 15:17:29,2023-07-12 18:54:30,217.01666666666668
+'07161,"('Apgar_VC_parking', 'Logan_pass_parking')",1860.0,2023-07-12 16:44:37,2023-07-12 18:38:37,114.0
+'07171,"('Logan_pass_parking',)",2160.0,2023-07-12 16:39:13,2023-07-12 17:15:13,36.0
+'07181,"('Hidden_lake_overlook', 'Logan_pass_parking')",3990.0,2023-07-12 16:51:36,2023-07-12 17:59:51,68.25
+'07211,"('Logan_pass_parking', 'Loop_highline_grinnell_glac')",2940.0,2023-07-12 17:41:02,2023-07-12 18:44:32,63.5
+'07221,"('Apgar_VC', 'Apgar_VC_parking')",2329.0,2023-07-12 18:00:26,2023-07-12 18:56:23,55.95
+'07231,"('Logan_pass_parking', 'Oberlin_bend', 'St_mary_VC_parking', 'St_mary_campground', 'Wild_goose_island')",43562.0,2023-07-12 17:29:51,2023-07-13 10:23:22,1013.5166666666667
+'07251,"('Apgar_campground',)",59535.0,2023-07-12 18:53:02,2023-07-13 11:25:17,992.25
+'07261,"('StMary_falls_trail', 'St_mary_VC', 'St_mary_falls_parking')",8086.0,2023-07-12 17:40:50,2023-07-12 20:36:35,175.75
+'07271,"('Wild_goose_island',)",285.0,2023-07-12 17:46:04,2023-07-12 17:51:19,5.25
+'07301,"('Jackson_glac_overlook',)",465.0,2023-07-12 17:26:55,2023-07-12 17:34:55,8.0
+'07321,"('Red_rock',)",1050.0,2023-07-12 16:55:07,2023-07-12 17:12:37,17.5
+'07341,"('Lunch_creek_parking', 'Oberlin_bend', 'St_mary_VC_parking')",2805.0,2023-07-12 16:14:43,2023-07-12 17:37:28,82.75
+'07351,"('Apgar_VC_parking', 'Apgar_village', 'Jackson_glac_overlook', 'Logan_pass_parking')",3510.0,2023-07-12 16:54:38,2023-07-12 19:18:23,143.75
+'07361,"('Lake_macdonald_lodge',)",50928.0,2023-07-12 17:15:20,2023-07-13 09:29:08,973.8
+'07391,"('Baring_falls_to_sun_point', 'Baring_falls_trail', 'Sun_point_nature_trail', 'Sun_point_parking', 'Viriginia_falls_trail')",5880.0,2023-07-06 12:07:23,2023-07-06 15:42:38,215.25
+'07411,"('Apgar_village', 'Fish_creek')",54190.0,2023-07-12 17:45:35,2023-07-13 09:09:47,924.2
+'07441,"('Baring_falls_to_sun_point', 'Sun_point_parking')",1395.0,2023-07-12 15:43:09,2023-07-12 16:36:24,53.25
+'07451,"('Apgar_VC', 'Apgar_VC_parking', 'Red_rock')",8764.0,2023-07-12 18:39:40,2023-07-13 05:25:58,646.3
+'07461,"('St_mary_VC_parking',)",7065.0,2023-07-12 19:52:48,2023-07-12 21:50:33,117.75
+'07521,"('Apgar_VC_parking', 'Loop_parking')",465.0,2023-07-12 17:43:28,2023-07-12 18:42:43,59.25
+'07541,"('Apgar_VC',)",149.0,2023-07-12 18:27:32,2023-07-12 18:30:01,2.4833333333333334
+'08231,"('Baring_falls_to_sun_point', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'StMary_falls_trail', 'Sun_point_parking')",4260.0,2023-07-14 14:55:38,2023-07-14 17:49:05,173.45
+'09041,"('Apgar_VC_parking', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Sun_point_parking')",21180.0,2023-07-16 09:22:32,2023-07-16 17:10:17,467.75
+'09071,"('Baring_falls_trail', 'StMary_falls_trail', 'St_mary_falls_parking', 'Viriginia_falls_trail')",8640.0,2023-07-16 08:39:32,2023-07-16 12:42:32,243.0
+'09081,"('Logan_pass_parking',)",180.0,2023-07-16 08:46:44,2023-07-16 08:49:44,3.0
+'09111,"('Apgar_VC', 'Baring_falls_parking', 'Big_bend', 'Jackson_glac_overlook', 'Lunch_creek_parking', 'Red_rock', 'Sun_point_parking', 'Wild_goose_island')",18910.0,2023-07-16 07:56:35,2023-07-16 17:37:45,581.1666666666666
+'09151,"('Apgar_village', 'Avalanche_parking', 'Big_bend', 'Lake_macdonald_lodge', 'Oberlin_bend', 'Red_rock', 'Wild_goose_island')",14910.0,2023-07-16 08:53:50,2023-07-16 16:02:05,428.25
+'09161,"('Logan_pass_parking', 'Red_rock', 'Sun_point_parking', 'Wild_goose_island')",8265.0,2023-07-16 08:55:04,2023-07-16 16:52:04,477.0
+'09191,"('Siyeh_bend_parking', 'Siyeh_bend_trail', 'St_mary_campground')",61231.0,2023-07-16 08:42:29,2023-07-17 02:17:14,1054.75
+'09201,"('Apgar_VC', 'Apgar_VC_parking')",480.0,2023-07-16 09:44:01,2023-07-16 09:52:16,8.25
+'09281,"('Baring_falls_trail', 'Rising_sun_boat_dock', 'St_mary_falls_parking')",5190.0,2023-07-16 08:03:37,2023-07-16 11:49:37,226.0
+'09291,"('Apgar_campground', 'Avalanche_parking', 'Big_bend', 'Moose_country')",3016.0,2023-07-16 08:41:29,2023-07-16 10:54:14,132.75
+'09331,"('Rising_sun_boat_dock',)",2550.0,2023-07-16 08:11:06,2023-07-16 08:53:36,42.5
+'09341,"('Apgar_village', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Red_rock', 'Shuttle_Avalanche', 'Trail_of_Cedars')",19351.0,2023-07-16 09:52:48,2023-07-16 16:20:48,388.0
+'09351,"('Jackson_glac_overlook',)",840.0,2023-07-16 08:39:52,2023-07-16 09:15:37,35.75
+'09381,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village', 'Hidden_lake_overlook', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Lunch_creek_parking', 'Shuttle_Logan_pass', 'StMary_falls_trail', 'St_mary_falls_parking', 'Sun_point_parking')",18797.0,2023-07-16 07:56:59,2023-07-16 16:25:44,508.75
+'09401,"('Baring_falls_trail', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'St_mary_falls_parking', 'Sun_point_nature_trail', 'Sun_point_parking')",14280.0,2023-07-16 09:39:01,2023-07-16 14:50:46,311.75
+'09421,"('Apgar_village', 'Avalanche_parking', 'Lake_macdonald_lodge')",53874.0,2023-07-16 10:41:40,2023-07-17 03:28:52,1007.2
+'09471,"('Big_bend', 'Lake_macdonald_lodge', 'Red_rock', 'Sun_point_parking', 'Trail_of_Cedars')",1785.0,2023-07-16 09:41:50,2023-07-16 11:54:50,133.0
+'09501,"('Apgar_VC_parking', 'Avalanche_parking', 'Avalanche_trail', 'Big_bend', 'Gunsight_pass_trailhead', 'Loop_parking', 'Red_rock', 'Shuttle_Avalanche', 'Trail_of_Cedars')",12766.0,2023-07-16 09:05:32,2023-07-16 15:25:56,380.4
+'10081,"('Apgar_VC_parking', 'Logan_pass_parking', 'Loop_parking', 'Red_rock')",3990.0,2023-07-18 16:40:23,2023-07-18 19:52:53,192.5
+'10091,"('Rising_sun', 'St_mary_VC_parking')",750.0,2023-07-16 09:41:39,2023-07-16 10:03:39,22.0
+'10231,"('Big_bend', 'Moose_country', 'St_mary_VC_parking')",14099.0,2023-07-18 17:58:04,2023-07-19 09:46:03,947.9833333333333
+'10241,"('Rising_sun', 'St_mary_VC_parking')",750.0,2023-07-16 09:41:41,2023-07-16 10:03:41,22.0
+'10331,"('Apgar_VC', 'Apgar_VC_parking')",2312.0,2023-07-18 16:12:17,2023-07-18 16:51:04,38.78333333333333
+'10361,"('Apgar_VC_parking',)",495.0,2023-07-18 16:05:50,2023-07-18 16:18:43,12.883333333333333
+'10391,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking')",6300.0,2023-07-18 18:38:05,2023-07-18 20:26:35,108.5
+'10471,"('Big_bend', 'Logan_pass_VC', 'Logan_pass_parking', 'Oberlin_climbing')",10515.0,2023-07-18 18:42:24,2023-07-18 21:57:39,195.25
+'10531,"('Apgar_VC_parking',)",345.0,2023-07-18 17:38:02,2023-07-18 17:43:47,5.75
+'11111,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",41333.0,2023-07-20 11:29:21,2023-07-21 03:00:16,930.9166666666666
+'11331,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",20251.0,2023-07-20 10:18:23,2023-07-20 16:47:53,389.5
+'11411,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",29406.0,2023-07-20 10:56:22,2023-07-21 03:19:18,982.9333333333333
+'11421,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Trail_of_Cedars')",16260.0,2023-07-20 10:20:02,2023-07-20 18:40:38,500.6
+'11531,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",37854.0,2023-07-20 09:50:33,2023-07-21 03:44:03,1073.5
+'12011,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Shuttle_Logan_pass', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'St_mary_VC_parking')",24181.0,2023-07-21 09:27:09,2023-07-21 17:17:54,470.75
+'12021,"('Loop_highline_grinnell_glac', 'Shuttle_Logan_pass')",62445.0,2023-07-21 09:11:19,2023-07-22 02:32:49,1041.5
+'12031,"('Logan_pass_VC',)",31425.0,2023-07-21 09:29:32,2023-07-21 19:11:35,582.05
+'12091,"('St_mary_VC_parking',)",165.0,2023-07-21 09:07:04,2023-07-21 09:09:49,2.75
+'12151,"('Avalanche_parking', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Shuttle_Siyeh_bend', 'St_mary_VC_parking', 'Trail_of_Cedars')",25243.0,2023-07-21 09:48:51,2023-07-21 22:49:49,780.9666666666667
+'12161,"('Avalanche_parking', 'Logan_pass_VC', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Trail_of_Cedars')",7785.0,2023-07-21 10:39:05,2023-07-21 14:52:20,253.25
+'12251,"('Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac')",21692.0,2023-07-21 08:59:59,2023-07-21 15:10:32,370.55
+'12301,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'St_mary_VC_parking')",44854.0,2023-07-21 11:06:43,2023-07-22 01:02:16,835.55
+'12401,"('Rising_sun_boat_dock', 'Shuttle_St_mary_falls', 'Shuttle_Sun_point', 'StMary_falls_trail', 'St_mary_VC', 'St_mary_VC_parking', 'Sun_point_parking')",11251.0,2023-07-21 09:27:59,2023-07-22 03:15:37,1067.6333333333334
+'12501,"('Hidden_lake_overlook', 'Jackson_glac_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Logan_pass', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'St_mary_VC_parking')",24615.0,2023-07-21 09:02:42,2023-07-21 17:58:42,536.0
+'12521,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass', 'St_mary_VC_parking', 'Trail_of_Cedars')",37204.0,2023-07-21 08:08:19,2023-07-22 01:37:50,1049.5166666666667
+'13041,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'Sun_point_parking')",6135.0,2023-07-24 11:14:03,2023-07-24 14:04:33,170.5
+'1313,"('Lake_macdonald_lodge',)",6702.0,2023-07-26 18:00:23,2023-07-26 19:54:49,114.43333333333334
+'1321,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Avalanche_trail', 'Big_bend', 'Lake_macdonald_lodge', 'Moose_country', 'Shuttle_Avalanche', 'Siyeh_bend_parking', 'Siyeh_bend_trail', 'Trail_of_Cedars')",23367.0,2023-07-02 10:10:30,2023-07-02 20:38:12,627.7
+'13231,"('Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Loop_parking', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'Sun_point_parking')",31216.0,2023-07-24 10:03:27,2023-07-24 19:49:27,586.0
+'13241,"('Apgar_VC', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'Sun_point_parking')",47265.0,2023-07-24 11:14:02,2023-07-25 02:44:11,930.15
+'13331,"('Gunsight_trailhead_stMary_falls', 'Jackson_glac_overlook', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'St_mary_VC_parking', 'Sun_point_parking')",52121.0,2023-07-24 09:45:01,2023-07-25 00:46:42,901.6833333333333
+'13381,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'St_mary_VC_parking')",32845.0,2023-07-24 09:13:23,2023-07-24 22:46:29,813.1
+'13511,"('Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass')",16050.0,2023-07-24 09:13:41,2023-07-24 14:25:26,311.75
+'14011,"('Big_bend', 'Jackson_glac_overlook', 'Siyeh_bend_parking', 'Wild_goose_island')",886.0,2023-07-26 16:57:40,2023-07-26 17:51:55,54.25
+'14081,"('Apgar_VC', 'Logan_pass_parking', 'Siyeh_bend_parking')",33163.0,2023-07-26 17:06:21,2023-07-27 03:55:19,648.9666666666667
+'14101,"('Jackson_glac_overlook',)",345.0,2023-07-26 16:11:17,2023-07-26 16:17:02,5.75
+'14111,"('Oberlin_bend',)",390.0,2023-07-26 18:14:21,2023-07-26 18:20:51,6.5
+'14151,"('Lake_macdonald_lodge', 'Rising_sun', 'Shuttle_Lake_macdonald', 'St_mary_VC_parking')",24704.0,2023-07-26 15:54:20,2023-07-27 09:08:17,1033.95
+'14161,"('Jackson_glac_overlook', 'Logan_pass_parking')",2160.0,2023-07-26 16:20:57,2023-07-26 17:17:42,56.75
+'14171,"('Big_bend', 'Fish_creek', 'Jackson_glac_overlook', 'Oberlin_bend', 'Red_rock', 'Wild_goose_island')",49755.0,2023-07-26 17:47:03,2023-07-27 11:40:18,1073.25
+'14181,"('Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Loop_parking', 'Oberlin_bend', 'Shuttle_Lake_macdonald')",52650.0,2023-07-26 18:18:00,2023-07-27 11:46:54,1048.9
+'14191,"('Apgar_VC', 'Big_bend', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Siyeh_bend_trail')",5774.0,2023-07-26 16:16:02,2023-07-26 20:09:32,233.5
+'14221,"('Apgar_VC',)",56257.0,2023-07-26 17:41:42,2023-07-27 09:34:50,953.1333333333333
+'14271,"('Baring_falls_parking', 'Big_bend', 'Gunsight_pass_trailhead', 'Jackson_glac_overlook', 'Lunch_creek_parking', 'Oberlin_bend', 'Shuttle_St_mary_falls', 'Siyeh_bend_parking', 'Wild_goose_island')",2836.0,2023-07-26 16:40:29,2023-07-26 18:51:59,131.5
+'14321,"('Apgar_VC', 'Rising_sun_picnic_area', 'Wild_goose_island')",37999.0,2023-07-26 17:39:34,2023-07-27 07:38:05,838.5166666666667
+'14411,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Moose_country', 'Shuttle_Lake_macdonald', 'Sun_point_parking')",3376.0,2023-07-26 15:45:46,2023-07-26 20:36:46,291.0
+'14421,"('Apgar_VC_parking', 'Logan_pass_parking')",2415.0,2023-07-26 17:27:46,2023-07-26 21:32:31,244.75
+'14431,"('Hidden_lake_overlook', 'Jackson_glac_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Siyeh_bend_parking', 'Siyeh_bend_trail', 'St_mary_VC_parking')",34302.0,2023-07-26 16:29:37,2023-07-27 09:42:00,1032.3833333333334
+'14441,"('Big_bend', 'Loop_parking', 'Red_rock')",1050.0,2023-07-26 18:11:22,2023-07-26 18:52:52,41.5
+'14521,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Moose_country')",2475.0,2023-07-26 18:38:44,2023-07-26 21:06:14,147.5
+'14541,"('Big_bend', 'Hidden_lake_overlook', 'Jackson_glac_overlook', 'Logan_pass_VC', 'Logan_pass_parking')",4875.0,2023-07-26 16:47:17,2023-07-26 19:00:51,133.56666666666666
+'15011,"('Apgar_VC', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",6905.0,2023-07-27 10:01:56,2023-07-27 14:40:53,278.95
+'15091,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",24679.0,2023-07-27 10:34:00,2023-07-27 18:17:34,463.56666666666666
+'15101,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass', 'Trail_of_Cedars')",20475.0,2023-07-27 10:33:54,2023-07-27 17:03:39,389.75
+'1512,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",5530.0,2023-07-27 10:33:56,2023-07-27 14:45:21,251.41666666666666
+'15161,"('Apgar_VC', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Loop')",31412.0,2023-07-27 10:00:02,2023-07-28 00:03:14,843.2
+'15191,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",18045.0,2023-07-27 11:37:04,2023-07-27 18:17:34,400.5
+'15251,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",36597.0,2023-07-27 10:00:12,2023-07-28 02:36:16,996.0666666666667
+'15261,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",14655.0,2023-07-27 10:34:02,2023-07-27 14:49:47,255.75
+'15271,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",27248.0,2023-07-27 12:15:22,2023-07-28 00:21:21,725.9833333333333
+'15291,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",13413.0,2023-07-27 12:46:04,2023-07-27 15:46:22,180.3
+'15321,"('Avalanche_parking', 'Big_bend', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",6600.0,2023-07-27 12:15:15,2023-07-27 15:01:00,165.75
+'15411,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",18932.0,2023-07-27 12:00:25,2023-07-27 17:03:25,303.0
+'15421,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",10245.0,2023-07-27 11:23:18,2023-07-27 14:54:03,210.75
+'15441,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Trail_of_Cedars')",12240.0,2023-07-27 12:21:35,2023-07-27 17:03:21,281.76666666666665
+'15461,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",18774.0,2023-07-27 10:29:14,2023-07-27 20:32:50,603.6
+'15501,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass', 'Shuttle_Loop')",22532.0,2023-07-27 11:37:02,2023-07-28 02:18:19,881.2833333333333
+'1551,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",16687.0,2023-07-27 11:36:51,2023-07-27 15:55:57,259.1
+'15532,"('Apgar_VC', 'Avalanche_parking', 'Baring_falls_trail', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass', 'Shuttle_St_mary_falls', 'Shuttle_Sunrift_gorge', 'StMary_falls_trail', 'Viriginia_falls_trail')",13110.0,2023-07-27 11:36:47,2023-07-28 02:23:32,886.75
+'16011,"('Apgar_campground', 'Big_bend', 'Logan_pass_parking', 'Lunch_creek_parking')",1920.0,2023-07-30 18:43:52,2023-07-30 20:58:52,135.0
+'16021,"('Apgar_VC_parking', 'Logan_pass_parking', 'Loop_parking')",2100.0,2023-07-30 16:01:40,2023-07-30 17:58:55,117.25
+'16081,"('Gunsight_pass_trailhead',)",315.0,2023-07-30 18:03:05,2023-07-30 18:08:20,5.25
+'16091,"('Avalanche_parking',)",360.0,2023-07-30 16:46:35,2023-07-30 16:52:35,6.0
+'16111,"('Fish_creek',)",3960.0,2023-07-30 16:00:08,2023-07-30 17:06:08,66.0
+'16121,"('Apgar_campground', 'Apgar_village')",900.0,2023-07-30 15:46:20,2023-07-30 16:58:35,72.25
+'16161,"('Avalanche_parking', 'Avalanche_trail', 'Trail_of_Cedars')",10560.0,2023-07-30 18:10:10,2023-07-30 21:11:10,181.0
+'16171,"('Apgar_VC_parking', 'Apgar_campground', 'Apgar_village')",62202.0,2023-07-30 17:36:30,2023-07-31 11:02:42,1046.2
+'16181,"('Apgar_VC', 'Apgar_campground', 'Apgar_village', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking')",29280.0,2023-07-31 17:57:49,2023-08-01 06:02:04,724.25
+'16221,"('Apgar_VC_parking', 'Apgar_campground', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Red_rock')",9135.0,2023-07-30 16:59:00,2023-07-30 21:42:15,283.25
+'16261,"('Lake_macdonald_lodge',)",2325.0,2023-07-30 17:18:02,2023-07-30 17:57:47,39.75
+'16291,"('Apgar_village',)",2535.0,2023-07-30 16:19:35,2023-07-30 17:06:50,47.25
+'16311,"('Apgar_VC', 'Apgar_VC_parking')",405.0,2023-07-30 17:12:24,2023-07-30 17:26:09,13.75
+'16321,"('Apgar_campground', 'Many_glacier_trail')",3075.0,2023-07-30 18:47:08,2023-07-30 21:17:23,150.25
+'16341,"('Lake_macdonald_lodge', 'Logan_pass_parking', 'St_mary_falls_parking')",4680.0,2023-07-30 18:10:38,2023-07-30 20:52:38,162.0
+'16351,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_campground', 'Apgar_village', 'Avalanche_parking')",59965.0,2023-07-30 17:58:12,2023-07-31 11:40:07,1061.9166666666667
+'16411,"('Logan_pass_VC', 'Logan_pass_parking', 'Loop_parking', 'Lunch_creek_parking', 'Shuttle_St_mary_falls', 'St_mary_VC')",33361.0,2023-07-30 17:57:28,2023-07-31 04:38:59,641.5166666666667
+'16421,"('Fish_creek',)",64440.0,2023-07-30 17:52:21,2023-07-31 11:46:21,1074.0
+'16441,"('Big_bend', 'St_mary_VC_parking')",38400.0,2023-07-30 17:56:13,2023-07-31 05:23:58,687.75
+'16471,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",8625.0,2023-07-30 17:19:54,2023-07-30 18:34:24,74.5
+'16501,"('Logan_pass_VC', 'Logan_pass_parking', 'Loop_parking', 'Oberlin_bend')",1455.0,2023-07-30 18:27:24,2023-07-30 19:37:24,70.0
+'16521,"('Apgar_VC_parking', 'Lake_macdonald_lodge')",1635.0,2023-07-30 16:48:45,2023-07-30 18:22:15,93.5
+'16531,"('Apgar_village',)",4260.0,2023-07-30 16:41:48,2023-07-30 17:52:48,71.0
+'17021,"('Apgar_VC',)",10755.0,2023-07-31 18:09:06,2023-07-31 21:17:21,188.25
+'17041,"('Apgar_VC', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking')",29025.0,2023-07-31 16:06:06,2023-08-01 06:09:36,843.5
+'17081,"('Gunsight_pass_trailhead', 'Hidden_lake_overlook', 'Jackson_glac_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'St_mary_campground', 'Wild_goose_island')",39855.0,2023-07-31 15:49:30,2023-08-01 04:08:30,739.0
+'17121,"('Baring_falls_trail', 'Rising_sun', 'StMary_falls_trail', 'St_mary_falls_parking')",8151.0,2023-07-31 17:58:25,2023-08-01 07:41:11,822.7666666666667
+'17131,"('Logan_pass_parking', 'Rising_sun')",10185.0,2023-07-31 16:14:18,2023-08-01 07:41:18,927.0
+'17141,"('Avalanche_parking', 'Avalanche_trail', 'Big_bend', 'Trail_of_Cedars')",10260.0,2023-07-31 17:30:32,2023-07-31 20:52:17,201.75
+'17161,"('Avalanche_parking', 'Avalanche_trail', 'Trail_of_Cedars')",10560.0,2023-07-30 18:10:10,2023-07-30 21:11:10,181.0
+'17221,"('Logan_pass_VC', 'Logan_pass_parking', 'Siyeh_bend_parking')",915.0,2023-07-31 17:39:16,2023-07-31 18:15:01,35.75
+'17231,"('Oberlin_bend', 'Rising_sun')",4590.0,2023-07-31 17:23:07,2023-07-31 19:52:52,149.75
+'17271,"('StMary_falls_trail',)",1050.0,2023-07-31 17:37:28,2023-07-31 17:54:58,17.5
+'17321,"('Apgar_VC', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Oberlin_bend', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald')",49084.0,2023-07-31 17:07:29,2023-08-01 10:06:17,1018.8
+'17331,"('Big_bend', 'Red_rock')",1125.0,2023-07-31 16:34:16,2023-07-31 18:06:16,92.0
+'17341,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking')",8130.0,2023-07-31 15:58:29,2023-07-31 18:27:59,149.5
+'17381,"('Big_bend', 'Jackson_glac_overlook', 'Loop_parking', 'Siyeh_bend_parking')",1035.0,2023-07-31 16:16:43,2023-07-31 17:24:43,68.0
+'17391,"('StMary_falls_trail', 'St_mary_campground', 'Viriginia_falls_trail')",59055.0,2023-07-31 16:09:38,2023-08-01 09:39:08,1049.5
+'17431,"('Avalanche_parking', 'Rising_sun')",20480.0,2023-07-31 16:33:14,2023-08-01 10:25:33,1072.3166666666666
+'17441,"('Baring_falls_trail', 'Rising_sun', 'Rising_sun_boat_dock')",2550.0,2023-07-31 16:32:47,2023-07-31 18:40:17,127.5
+'17461,"('Apgar_VC', 'Apgar_VC_parking', 'Baring_falls_parking', 'Big_bend', 'Jackson_glac_overlook', 'Loop_parking')",17551.0,2023-07-31 16:22:17,2023-08-01 00:13:17,471.0
+'17501,"('Baring_falls_parking',)",4125.0,2023-07-31 16:51:47,2023-07-31 18:16:17,84.5
+'17511,"('Gunsight_pass_trailhead', 'Logan_pass_VC', 'Logan_pass_parking', 'Wild_goose_island')",810.0,2023-07-31 15:49:06,2023-07-31 17:07:51,78.75
+'17531,"('Hidden_lake_overlook', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Oberlin_bend', 'Shuttle_Logan_pass', 'Wild_goose_island')",5040.0,2023-07-31 17:29:40,2023-07-31 21:49:10,259.5
+'17541,"('Apgar_VC', 'Apgar_VC_parking', 'Lake_macdonald_lodge')",35344.0,2023-07-30 17:59:18,2023-07-31 11:13:20,1034.0333333333333
+'18131,"('Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'Shuttle_Siyeh_bend', 'St_mary_VC_parking')",19605.0,2023-08-01 08:03:59,2023-08-01 15:21:44,437.75
+'18151,"('Loop_highline_grinnell_glac', 'Rising_sun_boat_dock', 'Shuttle_Logan_pass', 'St_mary_VC_parking')",49740.0,2023-08-01 08:11:45,2023-08-01 23:54:45,943.0
+'19011,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass', 'StMary_falls_trail', 'Viriginia_falls_trail')",16232.0,2023-08-01 09:33:35,2023-08-01 17:02:05,448.5
+'19021,"('Apgar_VC_parking', 'Apgar_campground', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche')",37966.0,2023-08-01 08:48:59,2023-08-01 21:50:29,781.5
+'19041,"('Apgar_VC', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Loop_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Loop')",47110.0,2023-08-01 07:48:53,2023-08-02 01:28:00,1059.1166666666666
+'19161,"('Lake_macdonald_lodge', 'Logan_pass_VC', 'Loop_highline_grinnell_glac')",2685.0,2023-08-01 07:27:37,2023-08-01 09:09:37,102.0
+'19181,"('Apgar_VC_parking', 'Apgar_village', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",14399.0,2023-08-01 08:06:02,2023-08-01 18:38:17,632.25
+'19241,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",17145.0,2023-08-01 10:34:22,2023-08-01 17:19:33,405.18333333333334
+'19311,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'StMary_falls_trail', 'St_mary_VC', 'Sun_point_nature_trail', 'Sun_point_parking')",13820.0,2023-08-01 11:05:08,2023-08-01 18:17:27,432.31666666666666
+'19331,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",34296.0,2023-08-01 10:56:33,2023-08-02 02:15:59,919.4333333333333
+'19461,"('Apgar_VC', 'Avalanche_parking', 'Shuttle_Avalanche')",8405.0,2023-08-01 08:12:57,2023-08-01 10:58:47,165.83333333333334
+'19521,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Trail_of_Cedars')",5795.0,2023-08-01 11:05:05,2023-08-01 15:20:55,255.83333333333334
+'19541,"('Lake_macdonald_lodge', 'Loop_highline_grinnell_glac')",3090.0,2023-08-01 08:32:38,2023-08-01 10:32:08,119.5
+'20021,"('Rising_sun_boat_dock', 'Rising_sun_picnic_area', 'St_mary_VC_parking')",48631.0,2023-08-02 11:07:48,2023-08-03 00:55:48,828.0
+'20041,"('Apgar_VC', 'Apgar_VC_parking', 'Apgar_village', 'Big_bend', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Lunch_creek', 'Lunch_creek_parking')",28497.0,2023-08-02 11:43:36,2023-08-02 23:58:17,734.6833333333333
+'20071,"('Big_bend', 'Gunsight_pass_trailhead', 'Hidden_lake_overlook', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Red_rock')",15360.0,2023-08-02 11:35:02,2023-08-02 20:33:29,538.45
+'20081,"('Apgar_VC', 'Apgar_village', 'Logan_pass_parking', 'Loop_parking')",16859.0,2023-08-02 12:50:07,2023-08-03 05:19:22,989.25
+'20161,"('Big_bend', 'Lake_macdonald_lodge', 'Loop_parking', 'Oberlin_bend', 'Sun_point_parking', 'Wild_goose_island')",14067.0,2023-08-02 12:28:08,2023-08-02 17:50:20,322.2
+'20181,"('Lake_macdonald_lodge', 'Oberlin_bend', 'Snyder_ridge_trail')",22418.0,2023-08-02 11:17:29,2023-08-02 19:24:53,487.4
+'20201,"('Big_bend', 'Logan_pass_parking', 'Rising_sun_boat_dock')",3210.0,2023-08-02 12:34:48,2023-08-02 14:01:03,86.25
+'20241,"('Big_bend', 'St_mary_VC_parking')",23415.0,2023-08-02 12:51:47,2023-08-03 05:13:01,981.2333333333333
+'20291,"('Apgar_VC', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Shuttle_Lake_macdonald', 'Sun_point_parking')",34024.0,2023-08-02 10:43:31,2023-08-03 01:54:20,910.8166666666667
+'20331,"('Logan_pass_parking',)",825.0,2023-08-02 12:21:08,2023-08-02 12:38:08,17.0
+'20381,"('Apgar_VC_parking', 'Apgar_village')",285.0,2023-08-02 13:50:28,2023-08-02 13:57:58,7.5
+'20391,"('Jackson_glac_overlook', 'Rising_sun_boat_dock')",6270.0,2023-08-02 12:21:17,2023-08-02 16:04:32,223.25
+'20411,"('Baring_falls_to_sun_point', 'Sun_point_parking')",4092.0,2023-08-02 11:20:39,2023-08-02 12:33:36,72.95
+'20431,"('St_mary_VC',)",4679.0,2023-08-02 12:21:46,2023-08-02 13:44:45,82.98333333333333
+'21081,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",9959.0,2023-08-03 09:49:34,2023-08-03 12:59:15,189.68333333333334
+'21141,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Logan_pass')",38564.0,2023-08-03 08:12:16,2023-08-03 23:42:21,930.0833333333334
+'21191,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald')",23670.0,2023-08-03 08:26:39,2023-08-03 16:05:24,458.75
+'21231,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",24159.0,2023-08-03 08:59:05,2023-08-03 23:54:42,895.6166666666667
+'21341,"('Avalanche_parking', 'Avalanche_trail', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Trail_of_Cedars')",17535.0,2023-08-03 08:59:10,2023-08-03 15:49:10,410.0
+'21351,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Logan_pass')",40636.0,2023-08-03 09:21:11,2023-08-04 02:28:53,1027.7
+'21381,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",16936.0,2023-08-03 09:24:40,2023-08-03 23:53:55,869.25
+'21501,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",10785.0,2023-08-03 10:08:10,2023-08-03 16:13:15,365.0833333333333
+'21521,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Trail_of_Cedars')",21044.0,2023-08-03 10:46:44,2023-08-03 16:05:21,318.6166666666667
+'22021,"('Baring_falls_to_sun_point', 'Rising_sun_boat_dock', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'St_mary_VC_parking', 'St_mary_campground', 'Sun_point_nature_trail', 'Sun_point_parking', 'Viriginia_falls_trail')",15803.0,2023-08-06 08:18:43,2023-08-07 00:04:49,946.1
+'22091,"('Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Shuttle_Logan_pass', 'Siyeh_bend_trail', 'St_mary_VC_parking')",19095.0,2023-08-06 08:02:25,2023-08-06 14:17:37,375.2
+'22121,"('Baring_falls_to_sun_point', 'Baring_falls_trail', 'Red_eagle_trail', 'Rising_sun_boat_dock', 'StMary_falls_trail', 'St_mary_VC', 'St_mary_VC_parking', 'St_mary_campground', 'Sun_point_nature_trail', 'Sun_point_parking', 'Viriginia_falls_trail')",33162.0,2023-08-06 08:24:19,2023-08-07 01:44:28,1040.15
+'22151,"('Loop_highline_grinnell_glac',)",42150.0,2023-08-01 12:12:15,2023-08-01 23:54:45,702.5
+'22221,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Shuttle_Logan_pass', 'St_mary_VC_parking', 'Sun_point_parking')",19620.0,2023-08-06 08:00:47,2023-08-06 16:57:02,536.25
+'22261,"('Shuttle_Siyeh_bend', 'Shuttle_Sunrift_gorge', 'Siyeh_bend_trail', 'Siyeh_pass_trail', 'St_mary_VC_parking')",21338.0,2023-08-06 07:46:41,2023-08-06 14:23:19,396.6333333333333
+'22271,"('St_mary_VC_parking',)",520.0,2023-08-06 08:25:20,2023-08-06 08:34:00,8.666666666666666
+'22401,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Shuttle_Logan_pass', 'St_mary_VC')",29218.0,2023-08-06 08:07:31,2023-08-06 21:17:42,790.1833333333333
+'22411,"('Otokomi_lake_trail', 'Rising_sun_boat_dock', 'Shuttle_Rising_Sun', 'St_mary_VC_parking')",60539.0,2023-08-06 08:26:22,2023-08-07 01:59:31,1053.15
+'22461,"('Rising_sun_boat_dock', 'Shuttle_Sunrift_gorge', 'Siyeh_bend_trail', 'Siyeh_pass_trail', 'St_mary_VC_parking', 'Sun_point_parking')",36704.0,2023-08-06 08:21:50,2023-08-06 20:23:47,721.95
+'22471,"('Logan_pass_parking', 'Shuttle_Logan_pass', 'Shuttle_St_mary_falls', 'St_mary_VC_parking', 'Sun_point_parking')",9292.0,2023-08-06 07:45:43,2023-08-06 12:07:50,262.1166666666667
+'22531,"('Rising_sun_boat_dock', 'Shuttle_Rising_Sun', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'St_mary_VC', 'St_mary_VC_parking', 'Viriginia_falls_trail')",30049.0,2023-08-06 08:00:22,2023-08-06 21:18:39,798.2833333333333
+'23011,"('Apgar_campground', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",30165.0,2023-08-06 09:40:57,2023-08-06 19:26:18,585.35
+'23041,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",22094.0,2023-08-06 08:57:27,2023-08-06 23:47:50,890.3833333333333
+'23071,"('Apgar_VC', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'Viriginia_falls_trail')",15045.0,2023-08-06 08:49:09,2023-08-06 16:55:36,486.45
+'23101,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",8729.0,2023-08-06 09:36:37,2023-08-06 13:48:33,251.93333333333334
+'23141,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald')",16259.0,2023-08-06 09:58:47,2023-08-06 16:46:32,407.75
+'23171,"('Avalanche_parking', 'Hidden_lake_overlook', 'Jackson_glac_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Jackson_glac_overlook', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass', 'Trail_of_Cedars')",24103.0,2023-08-06 09:58:35,2023-08-06 17:54:51,476.26666666666665
+'23201,"('Apgar_VC', 'Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Shuttle_St_mary_falls', 'StMary_falls_trail', 'Trail_of_Cedars', 'Viriginia_falls_trail')",35497.0,2023-08-06 08:57:20,2023-08-07 00:36:10,938.8333333333334
+'23281,"('Hidden_lake_trail',)",7050.0,2023-08-06 09:46:36,2023-08-06 11:44:06,117.5
+'23291,"('Apgar_VC', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Loop')",32338.0,2023-08-06 07:59:19,2023-08-06 17:58:01,598.7
+'23341,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",21616.0,2023-08-06 09:40:53,2023-08-06 16:46:23,425.5
+'23441,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Logan_pass')",14369.0,2023-08-06 08:49:50,2023-08-06 13:31:20,281.5
+'23511,"('Loop_highline_grinnell_glac', 'Shuttle_Logan_pass')",60615.0,2023-08-06 07:58:02,2023-08-07 00:56:47,1018.75
+'23521,"('Lake_macdonald_lodge',)",5260.0,2023-08-06 15:29:13,2023-08-06 16:56:53,87.66666666666667
+'23541,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",8221.0,2023-08-06 08:16:16,2023-08-06 15:32:20,436.06666666666666
+'24041,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Avalanche_trail', 'Shuttle_Avalanche', 'Trail_of_Cedars')",15615.0,2023-08-07 08:04:27,2023-08-07 13:50:42,346.25
+'24171,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Logan_pass', 'Trail_of_Cedars')",14608.0,2023-08-07 08:58:18,2023-08-07 13:35:39,277.35
+'24231,"('Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald')",10135.0,2023-08-07 09:59:51,2023-08-07 13:04:47,184.93333333333334
+'24321,"('Apgar_VC', 'Avalanche_parking', 'Hidden_lake_overlook', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",34813.0,2023-08-07 10:00:04,2023-08-07 22:48:18,768.2333333333333
+'24341,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Trail_of_Cedars')",20296.0,2023-08-07 10:24:48,2023-08-07 16:30:04,365.26666666666665
+'24441,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Loop')",22830.0,2023-08-07 09:35:06,2023-08-07 17:03:38,448.53333333333336
+'24481,"('Avalanche_parking', 'Lake_macdonald_lodge', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Lake_macdonald', 'Shuttle_Logan_pass')",24612.0,2023-08-07 09:35:12,2023-08-07 17:39:03,483.85
+'24541,"('Apgar_VC', 'Apgar_VC_parking', 'Avalanche_parking', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Avalanche', 'Shuttle_Logan_pass')",22648.0,2023-08-07 09:19:40,2023-08-07 20:44:48,685.1333333333333
+'25011,"('Big_bend',)",255.0,2023-08-08 13:44:22,2023-08-08 13:48:52,4.5
+'25041,"('Logan_pass_VC', 'Logan_pass_parking', 'Loop_highline_grinnell_glac')",16943.0,2023-08-08 12:14:38,2023-08-08 17:16:01,301.3833333333333
+'25071,"('Apgar_village', 'Lake_macdonald_lodge')",11159.0,2023-08-08 12:06:09,2023-08-08 15:38:53,212.73333333333332
+'25141,"('Lake_macdonald_lodge', 'Moose_country', 'Shuttle_Lake_macdonald')",7673.0,2023-08-08 11:38:08,2023-08-08 15:48:10,250.03333333333333
+'25161,"('Apgar_VC_parking', 'Apgar_village', 'Lake_macdonald_lodge')",5248.0,2023-08-08 12:26:19,2023-08-08 15:27:00,180.68333333333334
+'25171,"('Apgar_VC', 'Apgar_VC_parking', 'Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Lunch_creek_parking')",17243.0,2023-08-08 10:02:01,2023-08-08 22:33:58,751.95
+'25181,"('Fish_creek',)",4674.0,2023-08-08 15:23:26,2023-08-08 16:42:35,79.15
+'25201,"('Apgar_VC', 'Apgar_VC_parking', 'Big_bend', 'Lake_macdonald_lodge', 'Logan_pass_parking', 'Rising_sun', 'Sun_point_parking')",10425.0,2023-08-08 10:35:59,2023-08-08 16:51:54,375.9166666666667
+'25231,"('Avalanche_parking', 'Logan_pass_VC', 'Logan_pass_parking', 'Rising_sun_boat_dock', 'Shuttle_Avalanche', 'St_mary_VC_parking')",12578.0,2023-08-08 13:35:42,2023-08-09 00:04:25,628.7166666666667
+'25241,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Moose_country', 'Shuttle_Avalanche', 'Trail_of_Cedars')",14910.0,2023-08-08 13:07:51,2023-08-08 17:42:21,274.5
+'25281,"('Apgar_VC_parking', 'Loop_highline_grinnell_glac', 'Shuttle_Logan_pass', 'Shuttle_Loop')",22980.0,2023-08-08 12:57:32,2023-08-08 20:48:47,471.25
+'25291,"('Apgar_VC_parking', 'Apgar_village', 'Fish_creek', 'Lake_macdonald_lodge', 'Rocky_point_trail')",10008.0,2023-08-08 10:44:23,2023-08-08 15:11:11,266.8
+'25311,"('Apgar_VC_parking', 'Lake_macdonald_lodge')",8456.0,2023-08-08 11:32:38,2023-08-08 15:34:33,241.91666666666666
+'25321,"('Apgar_campground', 'Apgar_village', 'Lake_macdonald_lodge', 'Loop_parking')",5253.0,2023-08-08 10:50:21,2023-08-08 14:45:54,235.55
+'25331,"('Hidden_lake_overlook', 'Logan_pass_VC', 'Logan_pass_parking', 'Moose_country', 'Wild_goose_island')",8535.0,2023-08-08 12:03:20,2023-08-08 16:21:35,258.25
+'25391,"('Apgar_village', 'Big_bend', 'Logan_pass_VC', 'Logan_pass_parking')",4395.0,2023-08-08 12:36:03,2023-08-08 17:28:48,292.75
+'25421,"('Avalanche_parking', 'Avalanche_trail', 'Lake_macdonald_lodge', 'Shuttle_Avalanche', 'Trail_of_Cedars')",18810.0,2023-08-08 11:16:47,2023-08-08 16:42:31,325.73333333333335
+'25431,"('Apgar_VC_parking', 'Avalanche_parking', 'Lake_macdonald_lodge', 'Red_rock')",3825.0,2023-08-08 12:32:49,2023-08-08 14:59:04,146.25
+'27341,"('Lake_macdonald_lodge',)",750.0,2023-08-08 12:55:53,2023-08-08 13:08:23,12.5

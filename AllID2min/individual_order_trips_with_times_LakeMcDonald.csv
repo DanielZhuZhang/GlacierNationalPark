@@ -1,0 +1,138 @@
+ID,Trip_Order,Total_Duration_POI,Trip_Start_Time,Trip_End_Time,Total_Trip_Duration
+'01031,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",540.0,2023-07-02 11:50:55,2023-07-02 16:35:41,284.76666666666665
+'01061,"('Lake_macdonald_lodge',)",135.0,2023-07-02 11:21:43,2023-07-02 11:23:58,2.25
+'01241,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",495.0,2023-07-02 12:05:23,2023-07-02 17:11:19,305.93333333333334
+'01341,"('Lake_macdonald_lodge',)",435.0,2023-07-02 12:05:19,2023-07-02 17:17:14,311.9166666666667
+'01371,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",810.0,2023-07-02 12:05:35,2023-07-02 16:44:13,278.6333333333333
+'01401,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",555.0,2023-07-02 13:29:18,2023-07-02 17:11:18,222.0
+'01501,"('Lake_macdonald_lodge',)",465.0,2023-07-02 12:46:00,2023-07-02 17:17:15,271.25
+'01511,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",510.0,2023-07-02 12:05:23,2023-07-02 15:52:53,227.5
+'02011,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",2502.0,2023-07-05 12:04:06,2023-07-05 12:45:07,41.016666666666666
+'02031,"('Lake_macdonald_lodge',)",6137.0,2023-07-05 07:54:28,2023-07-05 18:17:24,622.9333333333333
+'02091,"('Lake_macdonald_lodge',)",1725.0,2023-07-05 08:29:17,2023-07-05 15:02:47,393.5
+'02111,"('Lake_macdonald_lodge',)",1755.0,2023-07-05 08:29:28,2023-07-05 15:03:28,394.0
+'02181,"('Lake_macdonald_lodge',)",1204.0,2023-07-05 09:04:05,2023-07-05 09:24:09,20.066666666666666
+'02271,"('Lake_macdonald_lodge',)",165.0,2023-07-05 17:27:06,2023-07-05 17:29:51,2.75
+'02291,"('Lake_macdonald_lodge',)",180.0,2023-07-05 17:26:54,2023-07-05 17:29:54,3.0
+'02351,"('Lake_macdonald_lodge',)",4413.0,2023-07-05 08:42:14,2023-07-05 10:00:47,78.55
+'02421,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",585.0,2023-07-05 09:54:04,2023-07-05 14:59:34,305.5
+'02431,"('Lake_macdonald_lodge',)",210.0,2023-07-05 16:56:04,2023-07-05 16:59:34,3.5
+'02441,"('Lake_macdonald_lodge',)",3960.0,2023-07-05 13:16:09,2023-07-05 14:22:09,66.0
+'02471,"('Lake_macdonald_lodge',)",2430.0,2023-07-05 08:33:35,2023-07-05 09:17:35,44.0
+'02481,"('Lake_macdonald_lodge',)",1305.0,2023-07-05 08:51:24,2023-07-05 09:13:09,21.75
+'02521,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",1099.0,2023-07-05 09:18:16,2023-07-05 14:01:09,282.8833333333333
+'04051,"('Lake_macdonald_lodge',)",165.0,2023-07-07 15:39:45,2023-07-07 15:42:30,2.75
+'05071,"('Lake_macdonald_lodge',)",8205.0,2023-07-10 15:06:44,2023-07-10 18:40:29,213.75
+'05121,"('Lake_macdonald_lodge',)",3863.0,2023-07-10 09:01:35,2023-07-10 11:57:58,176.38333333333333
+'05141,"('Lake_macdonald_lodge',)",1819.0,2023-07-10 09:48:07,2023-07-10 11:22:56,94.81666666666666
+'05171,"('Lake_macdonald_lodge',)",1275.0,2023-07-10 12:49:53,2023-07-10 13:11:08,21.25
+'05291,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",2010.0,2023-07-10 16:46:33,2023-07-10 17:03:48,17.25
+'05541,"('Lake_macdonald_lodge',)",237.0,2023-07-10 08:54:24,2023-07-10 08:58:21,3.95
+'06021,"('Lake_macdonald_lodge',)",210.0,2023-07-11 12:02:16,2023-07-11 12:05:46,3.5
+'06111,"('Lake_macdonald_lodge',)",135.0,2023-07-11 11:56:32,2023-07-11 11:58:47,2.25
+'06151,"('Lake_macdonald_lodge',)",345.0,2023-07-11 11:48:49,2023-07-11 11:54:34,5.75
+'06171,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",4257.0,2023-07-11 14:27:53,2023-07-11 16:40:49,132.93333333333334
+'06381,"('Lake_macdonald_lodge',)",180.0,2023-07-11 11:38:51,2023-07-11 11:41:51,3.0
+'06441,"('Lake_macdonald_lodge',)",3945.0,2023-07-11 11:42:59,2023-07-11 12:52:44,69.75
+'06451,"('Lake_macdonald_lodge',)",2115.0,2023-07-11 10:49:27,2023-07-11 11:24:42,35.25
+'06521,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",13126.0,2023-07-11 11:02:07,2023-07-11 18:00:32,418.4166666666667
+'06531,"('Lake_macdonald_lodge',)",3465.0,2023-07-11 11:32:32,2023-07-11 12:30:47,58.25
+'06541,"('Lake_macdonald_lodge',)",5559.0,2023-07-11 10:36:27,2023-07-11 14:38:51,242.4
+'07361,"('Lake_macdonald_lodge',)",50928.0,2023-07-12 17:15:20,2023-07-13 09:29:08,973.8
+'09151,"('Lake_macdonald_lodge',)",5985.0,2023-07-16 11:37:50,2023-07-16 13:17:35,99.75
+'09341,"('Lake_macdonald_lodge',)",165.0,2023-07-16 13:19:18,2023-07-16 13:22:03,2.75
+'09381,"('Lake_macdonald_lodge',)",7830.0,2023-07-16 13:18:59,2023-07-16 15:29:29,130.5
+'09421,"('Lake_macdonald_lodge',)",36315.0,2023-07-16 12:24:07,2023-07-17 03:28:52,904.75
+'09471,"('Lake_macdonald_lodge',)",120.0,2023-07-16 11:52:50,2023-07-16 11:54:50,2.0
+'11111,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",510.0,2023-07-20 11:29:21,2023-07-20 16:47:51,318.5
+'11331,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",645.0,2023-07-20 10:18:23,2023-07-20 16:47:53,389.5
+'11411,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",9159.0,2023-07-20 10:56:22,2023-07-20 18:10:16,433.9
+'11421,"('Lake_macdonald_lodge',)",750.0,2023-07-20 10:20:02,2023-07-20 14:59:00,278.96666666666664
+'11531,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",12852.0,2023-07-20 10:18:26,2023-07-20 16:05:38,347.2
+'12521,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",5970.0,2023-07-21 13:35:19,2023-07-21 14:58:34,83.25
+'1313,"('Lake_macdonald_lodge',)",6702.0,2023-07-26 18:00:23,2023-07-26 19:54:49,114.43333333333334
+'1321,"('Lake_macdonald_lodge',)",314.0,2023-07-02 11:50:58,2023-07-02 12:57:56,66.96666666666667
+'13381,"('Lake_macdonald_lodge',)",2078.0,2023-07-24 15:30:03,2023-07-24 16:15:11,45.13333333333333
+'14151,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",615.0,2023-07-26 17:28:50,2023-07-26 17:35:50,7.0
+'14181,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",43545.0,2023-07-26 19:58:30,2023-07-27 08:40:30,762.0
+'14411,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",1935.0,2023-07-26 17:22:01,2023-07-26 20:36:46,194.75
+'15011,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",5795.0,2023-07-27 10:01:56,2023-07-27 12:45:20,163.4
+'15091,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",7039.0,2023-07-27 10:34:00,2023-07-27 18:17:34,463.56666666666666
+'15101,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",660.0,2023-07-27 10:33:54,2023-07-27 17:03:39,389.75
+'1512,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",3385.0,2023-07-27 10:33:56,2023-07-27 12:53:06,139.16666666666666
+'15161,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",480.0,2023-07-27 10:00:02,2023-07-27 10:04:47,4.75
+'15191,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",8399.0,2023-07-27 11:37:04,2023-07-27 18:17:34,400.5
+'15251,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",495.0,2023-07-27 10:00:12,2023-07-27 10:05:12,5.0
+'15261,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",780.0,2023-07-27 10:34:02,2023-07-27 14:49:47,255.75
+'15271,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",810.0,2023-07-27 12:15:22,2023-07-27 17:29:37,314.25
+'15291,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",13413.0,2023-07-27 12:46:04,2023-07-27 15:46:22,180.3
+'15321,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",435.0,2023-07-27 12:15:15,2023-07-27 12:19:30,4.25
+'15411,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",751.0,2023-07-27 12:00:25,2023-07-27 17:03:25,303.0
+'15421,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",420.0,2023-07-27 12:15:18,2023-07-27 12:19:33,4.25
+'15441,"('Lake_macdonald_lodge',)",180.0,2023-07-27 17:00:21,2023-07-27 17:03:21,3.0
+'15461,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",345.0,2023-07-27 14:46:06,2023-07-27 14:49:36,3.5
+'15501,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",737.0,2023-07-27 11:37:02,2023-07-27 17:30:02,353.0
+'1551,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",540.0,2023-07-27 11:36:51,2023-07-27 15:55:57,259.1
+'15532,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",780.0,2023-07-27 11:36:47,2023-07-27 18:33:47,417.0
+'16221,"('Lake_macdonald_lodge',)",2130.0,2023-07-30 17:41:30,2023-07-30 18:17:00,35.5
+'16261,"('Lake_macdonald_lodge',)",2325.0,2023-07-30 17:18:02,2023-07-30 17:57:47,39.75
+'16341,"('Lake_macdonald_lodge',)",2070.0,2023-07-30 18:10:38,2023-07-30 19:06:23,55.75
+'16471,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",8625.0,2023-07-30 17:19:54,2023-07-30 18:34:24,74.5
+'16521,"('Lake_macdonald_lodge',)",1035.0,2023-07-30 17:20:00,2023-07-30 18:22:15,62.25
+'17321,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",406.0,2023-08-01 09:40:17,2023-08-01 09:44:32,4.25
+'17531,"('Lake_macdonald_lodge',)",420.0,2023-07-31 21:42:10,2023-07-31 21:49:10,7.0
+'17541,"('Lake_macdonald_lodge',)",495.0,2023-07-30 18:32:03,2023-07-30 18:40:18,8.25
+'18131,"('Lake_macdonald_lodge',)",150.0,2023-08-01 15:19:14,2023-08-01 15:21:44,2.5
+'19011,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",345.0,2023-08-01 10:56:20,2023-08-01 10:59:50,3.5
+'19021,"('Lake_macdonald_lodge',)",330.0,2023-08-01 08:48:59,2023-08-01 14:16:44,327.75
+'19041,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",405.0,2023-08-01 09:40:23,2023-08-01 09:44:38,4.25
+'19161,"('Lake_macdonald_lodge',)",120.0,2023-08-01 07:27:37,2023-08-01 07:29:37,2.0
+'19181,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",780.0,2023-08-01 08:06:02,2023-08-01 15:36:47,450.75
+'19241,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",11331.0,2023-08-01 13:33:11,2023-08-01 16:36:17,183.1
+'19311,"('Lake_macdonald_lodge',)",120.0,2023-08-01 18:15:27,2023-08-01 18:17:27,2.0
+'19331,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",465.0,2023-08-01 10:56:33,2023-08-01 18:17:47,441.23333333333335
+'19521,"('Lake_macdonald_lodge',)",135.0,2023-08-01 14:32:05,2023-08-01 14:34:20,2.25
+'19541,"('Lake_macdonald_lodge',)",180.0,2023-08-01 08:32:38,2023-08-01 08:35:38,3.0
+'20041,"('Lake_macdonald_lodge',)",210.0,2023-08-02 15:19:51,2023-08-02 15:23:21,3.5
+'20071,"('Lake_macdonald_lodge',)",5970.0,2023-08-02 14:57:47,2023-08-02 20:33:29,335.7
+'20161,"('Lake_macdonald_lodge',)",540.0,2023-08-02 17:40:50,2023-08-02 17:50:20,9.5
+'20181,"('Lake_macdonald_lodge',)",12045.0,2023-08-02 13:02:38,2023-08-02 19:24:53,382.25
+'20291,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",5183.0,2023-08-02 17:26:16,2023-08-02 20:08:18,162.03333333333333
+'21081,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",915.0,2023-08-03 09:49:34,2023-08-03 12:59:15,189.68333333333334
+'21141,"('Lake_macdonald_lodge',)",150.0,2023-08-03 13:11:01,2023-08-03 13:13:31,2.5
+'21191,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",495.0,2023-08-03 08:26:39,2023-08-03 16:05:24,458.75
+'21231,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",10245.0,2023-08-03 08:59:05,2023-08-03 16:05:14,426.15
+'21341,"('Lake_macdonald_lodge',)",345.0,2023-08-03 08:59:10,2023-08-03 15:49:10,410.0
+'21351,"('Lake_macdonald_lodge',)",120.0,2023-08-03 13:14:57,2023-08-03 13:16:57,2.0
+'21381,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",960.0,2023-08-03 09:24:40,2023-08-03 14:55:48,331.1333333333333
+'21501,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",390.0,2023-08-03 12:54:57,2023-08-03 12:59:12,4.25
+'21521,"('Lake_macdonald_lodge',)",210.0,2023-08-03 16:01:51,2023-08-03 16:05:21,3.5
+'23011,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",435.0,2023-08-06 15:02:03,2023-08-06 15:06:33,4.5
+'23041,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",510.0,2023-08-06 08:57:27,2023-08-06 15:06:06,368.65
+'23071,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",705.0,2023-08-06 08:49:09,2023-08-06 15:06:09,377.0
+'23101,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",735.0,2023-08-06 09:36:37,2023-08-06 13:48:33,251.93333333333334
+'23141,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",2400.0,2023-08-06 09:58:47,2023-08-06 16:46:32,407.75
+'23171,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",4813.0,2023-08-06 09:58:35,2023-08-06 17:54:51,476.26666666666665
+'23201,"('Lake_macdonald_lodge',)",300.0,2023-08-06 08:57:20,2023-08-06 15:56:20,419.0
+'23291,"('Lake_macdonald_lodge',)",180.0,2023-08-06 15:42:34,2023-08-06 15:45:34,3.0
+'23341,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",570.0,2023-08-06 16:41:08,2023-08-06 16:46:23,5.25
+'23441,"('Lake_macdonald_lodge',)",195.0,2023-08-06 13:28:05,2023-08-06 13:31:20,3.25
+'23521,"('Lake_macdonald_lodge',)",5260.0,2023-08-06 15:29:13,2023-08-06 16:56:53,87.66666666666667
+'23541,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",495.0,2023-08-06 08:16:16,2023-08-06 15:32:20,436.06666666666666
+'24171,"('Lake_macdonald_lodge',)",315.0,2023-08-07 13:30:24,2023-08-07 13:35:39,5.25
+'24231,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",420.0,2023-08-07 09:59:51,2023-08-07 10:04:36,4.75
+'24321,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",390.0,2023-08-07 10:00:04,2023-08-07 10:04:04,4.0
+'24341,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",6046.0,2023-08-07 10:24:48,2023-08-07 16:30:04,365.26666666666665
+'24441,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",870.0,2023-08-07 09:35:06,2023-08-07 17:03:38,448.53333333333336
+'24481,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge', 'Shuttle_Lake_macdonald')",1065.0,2023-08-07 09:35:12,2023-08-07 17:39:03,483.85
+'25071,"('Lake_macdonald_lodge',)",5940.0,2023-08-08 12:06:09,2023-08-08 13:45:09,99.0
+'25141,"('Lake_macdonald_lodge', 'Shuttle_Lake_macdonald', 'Lake_macdonald_lodge')",7479.0,2023-08-08 13:53:53,2023-08-08 15:48:10,114.28333333333333
+'25161,"('Lake_macdonald_lodge',)",3583.0,2023-08-08 13:23:19,2023-08-08 15:27:00,123.68333333333334
+'25201,"('Lake_macdonald_lodge',)",120.0,2023-08-08 11:16:44,2023-08-08 11:18:44,2.0
+'25241,"('Lake_macdonald_lodge',)",1035.0,2023-08-08 17:25:06,2023-08-08 17:42:21,17.25
+'25291,"('Lake_macdonald_lodge',)",390.0,2023-08-08 10:44:23,2023-08-08 10:50:53,6.5
+'25311,"('Lake_macdonald_lodge',)",7886.0,2023-08-08 12:03:23,2023-08-08 15:34:33,211.16666666666666
+'25321,"('Lake_macdonald_lodge',)",4338.0,2023-08-08 11:28:21,2023-08-08 13:57:39,149.3
+'25421,"('Lake_macdonald_lodge',)",555.0,2023-08-08 11:16:47,2023-08-08 11:26:02,9.25
+'25431,"('Lake_macdonald_lodge',)",2985.0,2023-08-08 13:45:34,2023-08-08 14:59:04,73.5
+'27341,"('Lake_macdonald_lodge',)",750.0,2023-08-08 12:55:53,2023-08-08 13:08:23,12.5
